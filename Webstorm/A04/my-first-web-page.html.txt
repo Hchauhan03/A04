@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <header>
+    </header>
+    <body>
+<h1>My First Web Page</h1>
+<p>Username: hrc3 - Hami Chauhan </p>
+<p>Course Number/Section: IS117-003 </p>
+<p>Course Name: Introduction to Web Development </p>
+<p>Copyright Hami Chauhan, Oct 15, 2024 Privacy Statement | Terms of Serice </p>
+
+
+    </body>
+</html>
